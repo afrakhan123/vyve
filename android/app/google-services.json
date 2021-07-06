@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "31125391094",
+    "firebase_url": "https://lcf2019-1574185501159.firebaseio.com",
+    "project_id": "lcf2019-1574185501159",
+    "storage_bucket": "lcf2019-1574185501159.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31125391094:android:34142524467b3292b7ced7",
+        "android_client_info": {
+          "package_name": "com.vyvenow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31125391094-s2te7pavc1i81b4r18k9uh8c71dhkk17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsN8BD6oaG6OIxpk_CTkQn3pdqC31d8r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31125391094-s2te7pavc1i81b4r18k9uh8c71dhkk17.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31125391094-vpup3oo6s9qra2v7r7qk9ure8ebu8t5k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lowcarbonfriends.VYVE",
+                "app_store_id": "1491323457"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
